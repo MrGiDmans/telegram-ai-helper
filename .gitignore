@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+
+# Загруженные пользователями файлы — не исходный код, содержат личные данные
+voice_agent/data/uploads/
+
+# Migrations
+voice_agent/migrations
+
+# Личные заметки/планы, не для публикации
+pet_project/
